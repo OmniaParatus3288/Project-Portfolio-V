@@ -100,7 +100,7 @@ In this course, I:
 
 ---
 
-### Week 4 – Threat Modeling & Security Plan Development
+### Week 4 – Threat Modeling, Policies & Security Plan Development
 
 - Integrated threat modeling into:
   - System Development Life Cycle (SDLC)
@@ -114,10 +114,17 @@ In this course, I:
   - Exception handling processes
   - Regulatory compliance (PCI DSS, NIST 800-53)
   - System and data protection measures
+- Developed supporting policies:
+  - **Patch Management Policy**
+  - **Security Maturity Policy**
+  - **SDLC Policy**
 
 📄 Key Documents:
 - [Week 4 Written Assignment](BrunoDaphnie_answers_week4.pdf)
 - [SnowBe Online Security Plan](Bruno_Daphnie_security_plan_week_4.pdf)
+- [Patch Management Policy](BrunoDaphnie_Patch_Management_Policy.pdf)
+- [Security Maturity Policy](BrunoDaphnie_Security_Maturity_Policy.pdf)
+- [SDLC Policy](BrunoDaphnie_SDLC_Policy.pdf)
 
 ---
 
@@ -134,6 +141,9 @@ Access my documents here:
 - [Week 3 Ratings Spreadsheet](BrunoDaphnie_Ratings_Week3.xlsx)
 - [Week 4 Written Assignment](BrunoDaphnie_answers_week4.pdf)
 - [SnowBe Online Security Plan](Bruno_Daphnie_security_plan_week_4.pdf)
+- [Patch Management Policy](BrunoDaphnie_Patch_Management_Policy.pdf)
+- [Security Maturity Policy](BrunoDaphnie_Security_Maturity_Policy.pdf)
+- [SDLC Policy](BrunoDaphnie_SDLC_Policy.pdf)
 
 ---
 
