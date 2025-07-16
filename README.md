@@ -51,8 +51,8 @@ In this course, I:
 - Planned adoption of Agile and DevSecOps principles for rapid development and security integration
 
 📄 Key Documents:
-- [Week 1 Written Assignment](BrunoDaphnie_answers_week1.pdf)
-- [Week 1 Video Presentation Slides](BrunoDaphnie_video_Presentation_week1.pdf)
+- [Week 1 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week1.pdf)
+- [Week 1 Video Presentation Slides](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_video_Presentation_week1.pdf)
 
 ---
 
@@ -72,8 +72,8 @@ In this course, I:
   - Regulatory alignment (PCI DSS, NIST 800-53)
 
 📄 Key Documents:
-- [Week 2 Written Assignment](BrunoDaphnie_answers_week2.pdf)
-- [Week 2 Video Presentation Slides](BrunoDaphnie_video_presentation_week2.pdf)
+- [Week 2 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week2.pdf)
+- [Week 2 Video Presentation Slides](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_video_presentation_week2.pdf)
 
 ---
 
@@ -94,9 +94,9 @@ In this course, I:
   - Automate patching and manage configurations centrally
 
 📄 Key Documents:
-- [Week 3 Written Assignment](BrunoDaphnie_answers_week3.pdf)
-- [Week 3 Video Presentation Slides](BrunoDaphnie_video_presentation_week3.pdf)
-- [Week 3 Ratings Spreadsheet](BrunoDaphnie_Ratings_Week3.xlsx)
+- [Week 3 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week3.pdf)
+- [Week 3 Video Presentation Slides](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_video_presentation_week3.pdf)
+- [Week 3 Ratings Spreadsheet](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_Ratings%20Week3.xlsx)
 
 ---
 
@@ -120,11 +120,11 @@ In this course, I:
   - **SDLC Policy**
 
 📄 Key Documents:
-- [Week 4 Written Assignment](BrunoDaphnie_answers_week4.pdf)
-- [SnowBe Online Security Plan](Bruno_Daphnie_security_plan_week_4.pdf)
-- [Patch Management Policy](BrunoDaphnie_Patch_Management_Policy.pdf)
-- [Security Maturity Policy](BrunoDaphnie_Security_Maturity_Policy.pdf)
-- [SDLC Policy](BrunoDaphnie_SDLC_Policy.pdf)
+- [Week 4 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week4.pdf)
+- [SnowBe Online Security Plan](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/Bruno_Daphnie_security_plan_week_4.pdf)
+- [Patch Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_Patch_Management_Policy.pdf)
+- [Security Maturity Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_Security_Maturity_Policy.pdf)
+- [SDLC Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_SDLC_Policy.pdf)
 
 ---
 
@@ -132,18 +132,21 @@ In this course, I:
 
 Access my documents here:
 
-- [Week 1 Written Assignment](BrunoDaphnie_answers_week1.pdf)
-- [Week 1 Video Presentation Slides](BrunoDaphnie_video_Presentation_week1.pdf)
-- [Week 2 Written Assignment](BrunoDaphnie_answers_week2.pdf)
-- [Week 2 Video Presentation Slides](BrunoDaphnie_video_presentation_week2.pdf)
-- [Week 3 Written Assignment](BrunoDaphnie_answers_week3.pdf)
-- [Week 3 Video Presentation Slides](BrunoDaphnie_video_presentation_week3.pdf)
-- [Week 3 Ratings Spreadsheet](BrunoDaphnie_Ratings_Week3.xlsx)
-- [Week 4 Written Assignment](BrunoDaphnie_answers_week4.pdf)
-- [SnowBe Online Security Plan](Bruno_Daphnie_security_plan_week_4.pdf)
-- [Patch Management Policy](BrunoDaphnie_Patch_Management_Policy.pdf)
-- [Security Maturity Policy](BrunoDaphnie_Security_Maturity_Policy.pdf)
-- [SDLC Policy](BrunoDaphnie_SDLC_Policy.pdf)
+- [Week 1 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week1.pdf)
+- [Week 1 Video Presentation Slides](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_video_Presentation_week1.pdf)
+
+- [Week 2 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week2.pdf)
+- [Week 2 Video Presentation Slides](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_video_presentation_week2.pdf)
+
+- [Week 3 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week3.pdf)
+- [Week 3 Video Presentation Slides](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_video_presentation_week3.pdf)
+- [Week 3 Ratings Spreadsheet](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_Ratings%20Week3.xlsx)
+
+- [Week 4 Written Assignment](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_answers_week4.pdf)
+- [SnowBe Online Security Plan](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/Bruno_Daphnie_security_plan_week_4.pdf)
+- [Patch Management Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_Patch_Management_Policy.pdf)
+- [Security Maturity Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_Security_Maturity_Policy.pdf)
+- [SDLC Policy](https://github.com/OmniaParatus3288/Project-Portfolio-V/blob/main/FILES/BrunoDaphnie_SDLC_Policy.pdf)
 
 ---
 
