@@ -1,4 +1,4 @@
-# Project & Portfolio V: Cybersecurity
+# Project & Portfolio V: secure-sdlc-maturity-assessment
 
 Welcome to my Project & Portfolio V repository! This project reflects my work at Full Sail University, where I explored the secure software development lifecycle, threat modeling, security maturity assessments, and the creation of a comprehensive security plan for a case study company, SnowBe Online.
 
